@@ -1,0 +1,2 @@
+This repository contains a simple machine learning project for classifying breast cancer tumors as malignant or benign. The project is designed to demonstrate the application of machine learning techniques for medical diagnosis.
+Loading of the breast cancer dataset from scikit-learn, a popular machine learning library in Python. This dataset, known as the Breast Cancer Wisconsin (Diagnostic) dataset, is commonly used for classification tasks, particularly for distinguishing between malignant and benign breast tumors.
